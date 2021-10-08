@@ -1,0 +1,9 @@
+C:\Users\sahib\source\repos\SQL\SQL\bin\Debug\Database1.mdf
+C:\Users\sahib\source\repos\SQL\SQL\bin\Debug\Database1_log.ldf
+C:\Users\sahib\source\repos\SQL\SQL\bin\Debug\SQL.exe.config
+C:\Users\sahib\source\repos\SQL\SQL\bin\Debug\SQL.exe
+C:\Users\sahib\source\repos\SQL\SQL\bin\Debug\SQL.pdb
+C:\Users\sahib\source\repos\SQL\SQL\obj\Debug\SQL.csproj.AssemblyReference.cache
+C:\Users\sahib\source\repos\SQL\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+C:\Users\sahib\source\repos\SQL\SQL\obj\Debug\SQL.exe
+C:\Users\sahib\source\repos\SQL\SQL\obj\Debug\SQL.pdb
