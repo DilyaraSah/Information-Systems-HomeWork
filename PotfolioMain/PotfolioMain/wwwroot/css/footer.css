@@ -1,0 +1,27 @@
+.footer{
+    background-color: rgb(66, 66, 66);
+    padding-bottom: 50px;
+}
+
+.footerBigText{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: white;
+    text-align: left;
+}
+
+.footerText{
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+a.footer:link { 
+    text-decoration: none; 
+    font-size: 20px;
+    color: rgb(145, 127, 182);}
+a.footer:visited { text-decoration: none; color: rgb(145, 127, 182);}
+a.footer:active { text-decoration: none; color: rgb(145, 127, 182);}
+a.footer:hover {text-decoration: none; color: rgb(160, 160, 160);}

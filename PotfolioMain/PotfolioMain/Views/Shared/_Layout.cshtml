@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - Portfolio</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/header.css"/>
+    <link rel="stylesheet" href="css/footer.css"/>
+    <link rel="stylesheet" href="css/main.css"/>
+</head>
+<div class="container-fluid">
+    <header class="header row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 block">
+            <a class="name" href="/Home/Index">
+                Dilya
+            </a>
+        </div>
+
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 block">
+            <ul class="oneLine">
+                <a href="/Home/Work" class="header">Work</a>
+                <a class="header" href="#">About</a>
+                <a class="header" href="#">Blog</a>
+                <a class="header" href="#">Contact</a>
+            </ul>
+        </div>
+    </header>
+
+    @RenderBody()
+
+    <section class="mainColor row text">
+    <div class="col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 col-xs-12 center mainBack">
+        <img src="/MainP/user.png" width="150px" height="150px">
+
+        <div class="mainBigText">Hello, I'm Dilya!</div>
+
+        <div class="mainText">
+            Hello everybody. I'm Stanley, a free handsome bootstrap theme coded.
+            A really simple theme for those wanting to showcase their work with a cute & clean style.
+        </div>
+
+        <div class="mainText">
+            Please, consider to register to our newsletter to be updated with our latest themes and freebies.
+            Like always, you can use this theme in any project freely. Share it with your friends.
+        </div>
+    </div>
+</section>
+
+<section class="row center">
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <img src="" class="img">
+        <div class="imgName">First</div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <img src="" class="img">
+        <div class="imgName">Second</div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <img src="" class="img">
+        <div class="imgName">Third</div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <img src="" class="img">
+        <div class="imgName">Fourth</div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <img src="" class="img">
+        <div class="imgName">Fifth</div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <img src="" class="img">
+        <div class="imgName">Sixth</div>
+    </div>
+</section>
+
+    <footer class="footer row">
+        <div class="col-md-3 col-md-offset-1 col-sm-4 ">
+            <div class="footerBigText">
+                My address
+            </div>
+
+            <div class="footerText">
+                Some address 18,
+            </div>
+
+            <div class="footerText">
+                +79273463751,
+            </div>
+
+            <div class="footerText">
+                Russia, Kazan
+            </div>
+        </div>
+
+        <div class="col-md-3 col-md-offset-1 col-sm-4">
+            <div class="footerBigText">
+                My links
+            </div>
+
+            <div class="footerText"><a class="footer" href="https://www.instagram.com/deal.tea/">Instagram</a></div>
+            <div class="footerText"><a class="footer" href="https://vk.com/sahibgareeva_d">VK</a></div>
+        </div>
+
+        <div class="col-md-3 col-md-offset-1 col-sm-4">
+            <div class="footerBigText">
+                About me
+            </div>
+
+            <div class="footerText">
+                I like to sleep
+            </div>
+        </div>
+    </footer>
+</div>
