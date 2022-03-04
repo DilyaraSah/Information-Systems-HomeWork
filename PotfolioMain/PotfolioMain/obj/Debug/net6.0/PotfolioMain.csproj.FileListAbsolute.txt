@@ -24,3 +24,9 @@ D:\Code\Rider\PotfolioMain\PotfolioMain\obj\Debug\net6.0\PotfolioMain.dll
 D:\Code\Rider\PotfolioMain\PotfolioMain\obj\Debug\net6.0\ref\PotfolioMain.dll
 D:\Code\Rider\PotfolioMain\PotfolioMain\obj\Debug\net6.0\PotfolioMain.pdb
 D:\Code\Rider\PotfolioMain\PotfolioMain\obj\Debug\net6.0\PotfolioMain.genruntimeconfig.cache
+D:\Code\Rider\PotfolioMain\PotfolioMain\bin\Debug\net6.0\MailKit.dll
+D:\Code\Rider\PotfolioMain\PotfolioMain\bin\Debug\net6.0\MimeKit.dll
+D:\Code\Rider\PotfolioMain\PotfolioMain\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Code\Rider\PotfolioMain\PotfolioMain\obj\Debug\net6.0\PotfolioMain.csproj.CopyComplete
+D:\Code\Rider\PotfolioMain\PotfolioMain\bin\Debug\net6.0\Portfolio.Misc.dll
+D:\Code\Rider\PotfolioMain\PotfolioMain\bin\Debug\net6.0\Portfolio.Misc.pdb

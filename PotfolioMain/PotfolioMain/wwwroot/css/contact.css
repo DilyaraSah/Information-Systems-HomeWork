@@ -1,0 +1,45 @@
+hr.contacts{
+    margin-top: 5px;
+    border-style: inset;
+    border-width: 0,5px;    
+    width: 40%;
+    height: 0,55px;
+    background-color: rgb(114, 114, 114);
+    text-align: center;
+}
+
+.contactBigText{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.contactText{
+    font-size: 20px;
+    margin-top: 15px;
+    color: rgb(105, 105, 105);
+}
+
+.center{
+    text-align: center;
+}
+
+.blockOfInput{
+    margin-top: 40px;
+}
+
+.contact{
+    border-color: rgb(139, 139, 139);
+    border-width: 1px;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+button.contact{
+    background-color: rgb(145, 127, 182);
+    border-radius: 20px;
+    border: none;
+    color: white;
+    margin-bottom: 40px;
+}

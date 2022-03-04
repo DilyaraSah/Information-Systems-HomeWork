@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/M5pMMgoRiX4g74N7fXSJd6aP49kIdSmGtAclU7dpfE=",
+  "Hash": "6VggBvhnBKNYfU6V6VusSN848FrIMpAlNOeheCYUx2o=",
   "Source": "PotfolioMain",
   "BasePath": "_content/PotfolioMain",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PotfolioMain.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\wwwroot\\css\\contact.css",
+      "SourceId": "PotfolioMain",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\wwwroot\\",
+      "BasePath": "_content/PotfolioMain",
+      "RelativePath": "css/contact.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
       "Identity": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\wwwroot\\css\\footer.css",
@@ -100,23 +117,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\main.css"
-    },
-    {
-      "Identity": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\wwwroot\\css\\portfolio_styles.css",
-      "SourceId": "PotfolioMain",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\wwwroot\\",
-      "BasePath": "_content/PotfolioMain",
-      "RelativePath": "css/portfolio_styles.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\portfolio_styles.css"
     },
     {
       "Identity": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\wwwroot\\favicon.ico",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\wwwroot\\MainP\\user.png",
+      "SourceId": "PotfolioMain",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\wwwroot\\",
+      "BasePath": "_content/PotfolioMain",
+      "RelativePath": "MainP/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MainP\\user.png"
     }
   ]
 }

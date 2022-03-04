@@ -1,0 +1,12 @@
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\bin\Debug\net6.0\Portfolio.Misc.deps.json
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\bin\Debug\net6.0\Portfolio.Misc.dll
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\bin\Debug\net6.0\ref\Portfolio.Misc.dll
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\bin\Debug\net6.0\Portfolio.Misc.pdb
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\obj\Debug\net6.0\Portfolio.Misc.csproj.AssemblyReference.cache
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\obj\Debug\net6.0\Portfolio.Misc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\obj\Debug\net6.0\Portfolio.Misc.AssemblyInfoInputs.cache
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\obj\Debug\net6.0\Portfolio.Misc.AssemblyInfo.cs
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\obj\Debug\net6.0\Portfolio.Misc.csproj.CoreCompileInputs.cache
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\obj\Debug\net6.0\Portfolio.Misc.dll
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\obj\Debug\net6.0\ref\Portfolio.Misc.dll
+D:\Code\Rider\PotfolioMain\Portfolio.Misc\obj\Debug\net6.0\Portfolio.Misc.pdb

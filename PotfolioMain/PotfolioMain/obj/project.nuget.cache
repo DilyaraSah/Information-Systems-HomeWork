@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "E1+X1/wpDQQf34XAz7wKUrS8KbJhyE0T5umngTXI759crB84th6LvIcGaVMZnk3vZqnHPf+uy9b0cas8mat/LQ==",
+  "dgSpecHash": "2dz4V9gCq/pLjnBogoMZ71Z5sWJcklei/IP3Q/QdCgO7t8M2he5797s7pQizNmh/D3uElezjK/w4tf+HCqr4Xw==",
   "success": true,
   "projectFilePath": "D:\\Code\\Rider\\PotfolioMain\\PotfolioMain\\PotfolioMain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sahib\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
+    "C:\\Users\\sahib\\.nuget\\packages\\mimekit\\3.1.1\\mimekit.3.1.1.nupkg.sha512",
+    "C:\\Users\\sahib\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\sahib\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\sahib\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
